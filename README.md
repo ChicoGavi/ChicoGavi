@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://la-guarida-del-hacker.super.site/">Santiago Gaviria</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://chicogavi.github.io/portafolio/index.html">Santiago Gaviria</a> 👋</h1>
 </div>
 
 
@@ -16,14 +16,14 @@
 ## 🚀 Sobre mí
 <ul dir="auto">
 <li>👾 Estudiante de la Fundacion Universitaria Comfamiliar Risaralda, en la carrera de Administracion en Sistemas</li>
-<li>🎥 Te enseño a hackear en mi blog y demas herramientas <a href="https://la-guarida-del-hacker.super.site/" rel="nofollow">La Guarida del Hacker</a> </li>
+<li>🎥 Te enseño a hackear en mi blog y demas herramientas <a href="https://chicogavi.github.io/portafolio/index.html" rel="nofollow">Portafolio Web</a> </li>
 <li>🟢 También subo contenido en <a href="https://www.tiktok.com/@santiagogaviriac18?_t=8p7X8FGbaX0&_r=1" rel="nofollow">TikTok</a> </li>
 <li>🎓 Mi Perfil Profesional de <a href="https://www.linkedin.com/in/santiago-gaviria-a9459b323/" rel="nofollow">Linkedin</a></li>
 </ul>
 
 ## 🔧 Skills
 ### Lenguajes de Programación
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,java)](https://skillicons.dev)
 
 ### Sistemas Operativos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,16 +32,7 @@
 
 ### Bases de Datos
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,notion,postgres,wordpress)](https://skillicons.dev)
-
-### Diseño Grafico
-[![My Skills](https://skillicons.dev/icons?i=sketchup,figma)](https://skillicons.dev)
-
-### Electronica
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
-### Editores de Codigo
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,notion,postgres,wordpress,mongodb)](https://skillicons.dev)
 
 
  <h3>¡Gracias por visitar mi perfil! 🚀</h3>
