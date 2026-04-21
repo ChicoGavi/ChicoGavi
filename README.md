@@ -6,8 +6,8 @@
 
 
 
-![image](<img width="2518" height="1536" alt="Gemini_Generated_Image_pisl81pisl81pisl" src="https://github.com/user-attachments/assets/eede8aba-9a39-4a92-895f-a1739df6c4a6" />)
-
+![IMAGE](<img width="2518" height="1536" alt="Gemini_Generated_Image_pisl81pisl81pisl" src="https://github.com/user-attachments/assets/2fe975bc-a4e5-457e-a915-0dc07c56d2d9" />
+)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6CD00&width=435&lines=Programador+Junior;Estudiante+Administraci%C3%B3n+Sistemas;Estudiante+Ciberseguridad" alt="Typing SVG" /></a>
