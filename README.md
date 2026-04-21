@@ -1,4 +1,4 @@
-
+<img width="1024" height="571" alt="image" src="https://github.com/user-attachments/assets/978fbac0-7ae7-47e2-82bc-6e4188391992" />
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://chicogavi.github.io/portafolio/index.html">Santiago Gaviria</a> 👋</h1>
 </div>
@@ -6,7 +6,7 @@
 
 
 
-![image](https://github.com/user-attachments/assets/9b0d2a65-b548-4fc9-87da-5a75769bfddf)
+![image](<img width="2518" height="1536" alt="Gemini_Generated_Image_pisl81pisl81pisl" src="https://github.com/user-attachments/assets/eede8aba-9a39-4a92-895f-a1739df6c4a6" />)
 
 
 <p align="center">
